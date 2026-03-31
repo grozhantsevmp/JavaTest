@@ -50,15 +50,4 @@ Snapshots:   0 total
 
 ## Скриншоты
 
-Добавьте скриншоты после загрузки на GitHub:
-- `docs/screenshots/jest-all.png` - результат `npm test`;
-- `docs/screenshots/jest-unit.png` - результат `npm run test:unit`;
-- `docs/screenshots/jest-functional.png` - результат `npm run test:functional`.
 
-Можно вставить их в README так:
-
-```markdown
-![All tests](docs/screenshots/jest-all.png)
-![Unit tests](docs/screenshots/jest-unit.png)
-![Functional tests](docs/screenshots/jest-functional.png)
-```
