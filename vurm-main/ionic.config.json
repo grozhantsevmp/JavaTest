@@ -1,0 +1,8 @@
+{
+  "name": "VURM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0e28de63"
+}

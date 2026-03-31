@@ -1,0 +1,23 @@
+{
+  "name": "vurm-tests",
+  "version": "1.0.0",
+  "description": "Jest тесты для проекта VURM (Ionic Vue)",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "test:unit": "jest --testPathPattern=unit/",
+    "test:functional": "jest --testPathPattern=functional/"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "@babel/preset-typescript": "^7.28.5",
+    "@vue/test-utils": "^2.4.3",
+    "@vue/vue3-jest": "^29.2.6",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "typescript": "^6.0.2",
+    "vue": "^3.3.9"
+  }
+}
