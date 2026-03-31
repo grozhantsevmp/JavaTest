@@ -51,4 +51,6 @@ Snapshots:   0 total
 ## Скриншоты
 
 <img width="370" height="221" alt="{B95B85E7-CDE6-4AA4-9C0B-5D05D89A7A61}" src="https://github.com/user-attachments/assets/36ab3749-3556-41c3-86d0-b9a50b43167b" />
+<img width="397" height="200" alt="{ADB6B11C-BCE3-4400-A1EB-7D4CB02CFAB2}" src="https://github.com/user-attachments/assets/188bb7b8-284a-4457-a853-baef95b9bd73" />
+<img width="594" height="237" alt="{118B02E1-6623-48F1-9352-E6F578C581D4}" src="https://github.com/user-attachments/assets/97115e11-781e-49d0-ac4c-f48eeb5752eb" />
 
