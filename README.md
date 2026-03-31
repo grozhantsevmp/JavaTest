@@ -50,4 +50,5 @@ Snapshots:   0 total
 
 ## Скриншоты
 
+<img width="370" height="221" alt="{B95B85E7-CDE6-4AA4-9C0B-5D05D89A7A61}" src="https://github.com/user-attachments/assets/36ab3749-3556-41c3-86d0-b9a50b43167b" />
 
